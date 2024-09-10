@@ -1,2 +1,2 @@
 # project-euler
-Solved problems so far.
+Solved problems by me so far.
